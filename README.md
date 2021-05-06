@@ -1,2 +1,2 @@
-# PhP-Binary
+# BinTray
 Private
